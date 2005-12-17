@@ -1,0 +1,9 @@
+Log-Dispatch-Table
+
+This module provides a logging output method for Log::Dispatch.  If you don't
+know what Log::Dispatch is, check it out.
+
+  http://search.cpan.org/dist/Log-Dispatch/
+
+The Log::Dispatch::TextTable output will collect data on all logged events and
+dump them to a nicely formatted text table when done.

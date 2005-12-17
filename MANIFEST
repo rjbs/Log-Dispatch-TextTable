@@ -1,0 +1,12 @@
+Changes
+MANIFEST
+META.yml # Will be created by "make dist"
+Makefile.PL
+README
+lib/Log/Dispatch/TextTable.pm
+t/00.load.t
+t/simple.t
+t/columns.t
+t/flush.t
+t/pod-coverage.t
+t/pod.t
