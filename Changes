@@ -1,5 +1,8 @@
 Revision history for Log-Dispatch-Table
 
+0.03    2005-12-19
+        fixed missing prereqs
+
 0.02    2005-12-17
         fixed missing semicolon in test
 

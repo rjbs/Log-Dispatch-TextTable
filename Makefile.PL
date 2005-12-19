@@ -10,6 +10,7 @@ WriteMakefile(
     PL_FILES            => {},
     PREREQ_PM => {
         'Log::Dispatch' => 2.0,
+        'Text::Table'   => 0.0, # ?
         'Test::More'    => 0,
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
