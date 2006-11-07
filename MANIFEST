@@ -10,3 +10,4 @@ t/columns.t
 t/flush.t
 t/pod-coverage.t
 t/pod.t
+t/perl-critic.t
