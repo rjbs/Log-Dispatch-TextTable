@@ -7,6 +7,7 @@ WriteMakefile(
     AUTHOR              => 'Ricardo Signes <rjbs@cpan.org>',
     VERSION_FROM        => 'lib/Log/Dispatch/TextTable.pm',
     ABSTRACT_FROM       => 'lib/Log/Dispatch/TextTable.pm',
+    LICENSE             => 'perl',
     PL_FILES            => {},
     PREREQ_PM => {
         'Log::Dispatch' => 2.0,
