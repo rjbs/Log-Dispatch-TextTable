@@ -1,6 +1,7 @@
 Revision history for Log-Dispatch-Table
 
 {{$NEXT}}
+        - update packaging, metadata, require v5.12
 
 0.032     2013-09-21 15:58:01 Asia/Tokyo
         - update packaging, metadata
